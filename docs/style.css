@@ -1,0 +1,16 @@
+html {
+    background-color: lightblue;
+}
+body {
+    text-align: center;
+}
+#TableHead {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+table {
+    text-align: center;
+    margin: auto;
+    padding: 2em;
+    color: red;
+}
